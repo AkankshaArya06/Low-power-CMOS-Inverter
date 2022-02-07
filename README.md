@@ -5,7 +5,9 @@ The purpose of this project is to design a Low power CMOS inverter using an open
 
  [Introduction](#Introduction)
  
+ 
  [Circuit details](#circuit details)
+ 
  
  
  
