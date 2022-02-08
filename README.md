@@ -11,7 +11,7 @@ The purpose of this project is to design a Low power CMOS inverter using an open
  
  
  
- Abstract
+ # Abstract
  
  Low power devices have become increasingly popular in recent years. This rapid proliferation is specifically because of fast increase of battery-operated transportable devices including laptop, tablet PC . Semiconductor devices are scaled to achieve high performance and excessive integration density. Due to elevated density of transistors in a die, the power consumption in a die is increasing . Supply voltage is scaled to balance the power consumption within limits.
 New low power techniques are required to reduce overall power in high performance nanoscale circuits.
