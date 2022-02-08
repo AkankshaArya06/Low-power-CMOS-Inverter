@@ -44,6 +44,21 @@ This paper introduces a inverter technique i.e. CMOS inverter and one another ap
 A CMOS inverter is consist of a pmos  and an nmos devices. Its operation can be understood with a easy transfer version of the MOS transistor, the transistor is nothing greater than a transfer with an countless off resistance When input is logic 0, logic 1 is obtained at the output and when input is logic 1, logic 0 is observed at the output. Fig.1 shows the conventional CMOS approach.
 The CMOS inverter has two important advantages over the other inverter configuration
 
+# Simulation Results
+a input-output waveform
+![cmos_inveter_simulation_1](https://user-images.githubusercontent.com/99197393/152943338-6a976bcc-7267-4e1a-9e3d-cf1675e1f673.JPG)
+
+![Reduce_swing_cmosinv _simulation](https://user-images.githubusercontent.com/99197393/152943396-c3c52997-c32a-4c54-89a4-f9eb7271a79d.JPG)
+
+b power waveform
+![power_cmos_inv](https://user-images.githubusercontent.com/99197393/152943620-e19adff5-15ff-4210-8d70-cf7f20bc5ec3.JPG)
+
+![power_reduce_swing](https://user-images.githubusercontent.com/99197393/152943694-d2824f7f-0950-4bb4-8598-461f0666f8da.JPG)
+
+
+
+
+
 
 
 
