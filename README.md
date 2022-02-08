@@ -48,9 +48,12 @@ The CMOS inverter has two important advantages over the other inverter configura
 a input-output waveform
 ![cmos_inveter_simulation_1](https://user-images.githubusercontent.com/99197393/152943338-6a976bcc-7267-4e1a-9e3d-cf1675e1f673.JPG)
 
+
 ![Reduce_swing_cmosinv _simulation](https://user-images.githubusercontent.com/99197393/152943396-c3c52997-c32a-4c54-89a4-f9eb7271a79d.JPG)
 
+
 b power waveform
+
 ![power_cmos_inv](https://user-images.githubusercontent.com/99197393/152943620-e19adff5-15ff-4210-8d70-cf7f20bc5ec3.JPG)
 
 ![power_reduce_swing](https://user-images.githubusercontent.com/99197393/152943694-d2824f7f-0950-4bb4-8598-461f0666f8da.JPG)
