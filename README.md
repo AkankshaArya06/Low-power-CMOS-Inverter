@@ -7,12 +7,22 @@ The purpose of this project is to design a Low power CMOS inverter using an open
  
  
  3[Circuit details](#circuit_details)
+ 
+ 
  4 [Simulation Results](#Simulation_Results)
+ 
       a[input-output waveform](#input-output-waveform)
+      
       b[power waveform](#power-waveform)
       
+      
+      
   5[Parameter Comparison Table](# comparisom-table)
+  
+  
   6[Conclusion](#conclusion)
+  
+  
   7[References](#References)
   
   
