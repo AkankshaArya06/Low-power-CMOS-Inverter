@@ -11,9 +11,9 @@ The purpose of this project is to design a Low power CMOS inverter using an open
  
  4 [Simulation Results](#Simulation_Results)
  
-      a[input-output waveform](#input-output-waveform)
+      a[input-output waveform](#input_output_waveform)
       
-      b[power waveform](#power-waveform)
+      b[power waveform](#power_waveform)
       
       
       
