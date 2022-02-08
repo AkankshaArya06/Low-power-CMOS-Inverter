@@ -17,7 +17,7 @@ The purpose of this project is to design a Low power CMOS inverter using an open
       
       
       
-  5[Parameter Comparison Table](# comparisom-table)
+  5[Parameter Comparison Table](#comparisom_table)
   
   
   6[Conclusion](#conclusion)
