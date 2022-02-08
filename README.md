@@ -43,7 +43,7 @@ As we know the high performance circuit needs the large number of transistor wit
 package density becomes the one the major demand in VLSI technology, the size of transistor is getting reduced. As the technology is getting finer, the percentage of leakage power dissipation in total power dissipation is increases significantly.This power dissipation increases cooling cost and reduces the system reliability. There are two main sources of power dissipation in any processors are static power and dynamic power. This static power dissipation causes due to flow of leakage current. And other power dissipation is dynamic power dissipation which is the power dissipation in CMOS circuit in active mode.
 
 # Reference Circuit Diagram
-   ## CMOS Inverter
+   ###CMOS Inverter
 A CMOS inverter is consist of a pmos and an nmos devices. Its operation can be understood with a easy transfer version of the MOS transistor, the transistor is nothing greater than a transfer with an countless off resistance When input is logic 0, logic 1 is obtained at the output and when input is logic 1, logic 0 is observed at the output. Fig.1 shows the conventional CMOS approach.
 The CMOS inverter has two important advantages over the other inverter configuration
 The first and perhaps the maximum vital advantage is that the  steady-state power dissipation of the CMOS inverter circuit is absolutely negligible, besides for small power dissipation because of leakage currents.
