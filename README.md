@@ -24,11 +24,5 @@ A CMOS inverter is consist of a pmos  and an nmos devices. Its operation can be 
 The CMOS inverter has two important advantages over the other inverter configuration
 
 
-## Circuit details
 
-
-A CMOS inverter is consist of a pmos  and an nmos devices. Its operation can be understood with a easy transfer version of the MOS transistor, the transistor is nothing greater than a transfer with an countless off resistance When input is logic 0, logic 1 is obtained at the output and when input is logic 1, logic 0 is observed at the output. Fig.1 shows the conventional CMOS approach.
-The CMOS inverter has two important advantages over the other inverter configuration
-The first and perhaps the maximum vital advantage is that the  steady-state power dissipation of the CMOS inverter circuit is absolutely negligible, besides for small power dissipation because of leakage currents.
-The other blessings of the CMOS configuration are that the voltage transfer characteristic (VTC) exhibits a complete output voltage swing among zero V and VDD, and that the VTC transition is normally very sharp. Thus, the VTC of the CMOS inverter resembles that of an ideal inverter [1].
 
