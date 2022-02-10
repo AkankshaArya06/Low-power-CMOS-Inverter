@@ -14,17 +14,15 @@ The purpose of this project is to design a Low power CMOS inverter using an open
  5 [Simulation Results](#Simulation_Results)
  
       
-  6[Parameter Comparison Table](#comparisom_table)
+  6[Conclusion](#conclusion)
   
   
-  7[Conclusion](#conclusion)
+  7[References](#References)
   
+  8[Acknowledgement](#Acknowledgement)
   
-  8[References](#References)
-  
-  9[Acknowledgement](#Acknowledgement)
-  
-  10[Author](#Author)
+  9[Author](#Author)
+  [Reference](#Reference)
   
   
  
@@ -99,9 +97,8 @@ Simulation Power(µw) Waveform of Reduce Swing CMOS Approach
 ![power_reduce_swing](https://user-images.githubusercontent.com/99197393/153353509-638ac301-f106-4547-ada2-51c1c80590b6.JPG)
 
 
-# Comparisom table
-
 # Conclusion
+This project propose a new approach of inverter realization using reduced swing approach. Power consumption is least in the case of reduced swing approach . 
 
 # Acknowledgement
 Kunal Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
