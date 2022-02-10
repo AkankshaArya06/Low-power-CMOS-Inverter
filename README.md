@@ -16,14 +16,12 @@ The purpose of this project is to design a Low power CMOS inverter using an open
       
   6[Conclusion](#conclusion)
   
+   
+   7[Acknowledgement](#Acknowledgement)
   
-  7[References](#References)
+  8[Author](#Author)
   
-  8[Acknowledgement](#Acknowledgement)
-  
-  9[Author](#Author)
-  
-  10[Reference](#Reference)
+  9[Reference](#Reference)
   
   
  
