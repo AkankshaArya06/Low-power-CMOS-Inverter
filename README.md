@@ -104,17 +104,20 @@ Simulation Power(µw) Waveform of Reduce Swing CMOS Approach
 # Conclusion
 
 # Acknowledgement
-@Kunal Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
+@ Kunal Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
 
 # Author
-@Akanksha Arya, VLSI student Banasthali Vidyapith University
+@ Akanksha Arya, VLSI student Banasthali Vidyapith University
+
  Contact: akankshaarya11@gmail.com
 
 
 # References
 [1] ’’CMOS digital integrated circuit’’sung-Mo kang
-[2] [2]	Seyed Ebrahim Esmaeili, Asim J. Al-Khalili, Glenn E.
+
+[2]	Seyed Ebrahim Esmaeili, Asim J. Al-Khalili, Glenn E.
 R. Cowan: Low-Swing Differential Conditional Capturing Flip-Flop for LC Resonant Clock Distribution Networks. IEEE Tran
+
 [3] C. Kim and S. M. Kang, “A low-swing clock double-edge triggered flipflop,” in Proc. Symp. VLSI Circuits, 2001, pp. 183–186.
 
 
