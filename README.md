@@ -104,10 +104,10 @@ Simulation Power(µw) Waveform of Reduce Swing CMOS Approach
 # Conclusion
 
 # Acknowledgement
-@Kunal_Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
+Kunal Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
 
 # Author
-@ Akanksha_Arya, VLSI student Banasthali Vidyapith University
+Akanksha Arya, VLSI student Banasthali Vidyapith University
 
  Contact: akankshaarya11@gmail.com
 
