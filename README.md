@@ -16,12 +16,13 @@ The purpose of this project is to design a Low power CMOS inverter using an open
       
   6[Conclusion](#conclusion)
   
-   
-   7[Acknowledgement](#Acknowledgement)
+   7[Reference](#Reference)
   
-  8[Author](#Author)
+   8[Acknowledgement](#Acknowledgement)
   
-  9[Reference](#Reference)
+  9[Author](#Author)
+  
+ 
   
   
  
@@ -102,6 +103,15 @@ Simulation Power(µw) Waveform of Reduce Swing CMOS Approach
 # Conclusion
 This project propose a new approach of inverter realization using reduced swing approach. Power consumption is least in the case of reduced swing approach . 
 
+# References
+[1] ’’CMOS digital integrated circuit’’sung-Mo kang
+
+[2]	Seyed Ebrahim Esmaeili, Asim J. Al-Khalili, Glenn E.
+R. Cowan: Low-Swing Differential Conditional Capturing Flip-Flop for LC Resonant Clock Distribution Networks. IEEE Tran
+
+[3] C. Kim and S. M. Kang, “A low-swing clock double-edge triggered flipflop,” in Proc. Symp. VLSI Circuits, 2001, pp. 183–186.
+
+
 # Acknowledgement
 Kunal Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
 
@@ -111,13 +121,6 @@ Akanksha Arya, VLSI student Banasthali Vidyapith University
  Contact: akankshaarya11@gmail.com
 
 
-# References
-[1] ’’CMOS digital integrated circuit’’sung-Mo kang
-
-[2]	Seyed Ebrahim Esmaeili, Asim J. Al-Khalili, Glenn E.
-R. Cowan: Low-Swing Differential Conditional Capturing Flip-Flop for LC Resonant Clock Distribution Networks. IEEE Tran
-
-[3] C. Kim and S. M. Kang, “A low-swing clock double-edge triggered flipflop,” in Proc. Symp. VLSI Circuits, 2001, pp. 183–186.
 
 
 
