@@ -68,6 +68,29 @@ This is identical as traditional CMOS however with a further pmos on the top who
 
 
 # Simulation Results
+Inout -output voltage waveform
+CMOS Inverter
+
+![cmos inv](https://user-images.githubusercontent.com/99197393/153339161-5a705a4c-e8da-4f53-aa75-8d368d6b981a.JPG) 
+
+Modified Spice Netlist with Sky130 models
+
+![image](https://user-images.githubusercontent.com/99197393/153339507-0a9b8155-0e1d-4452-b1d2-0ecede48ce6f.png)
+
+Reduce- Swing -CMOS Inverter 
+
+![Reduce swing](https://user-images.githubusercontent.com/99197393/153339639-69ff6376-356c-47f5-ac65-ac97deebcb28.JPG)
+
+Modified Spice Netlist of Reduce -Swing Approach with Sky130 models
+
+![image](https://user-images.githubusercontent.com/99197393/153339942-f256571f-0a6e-4355-8758-1808f262253c.png)
+
+
+
+
+
+
+
 
 
 
