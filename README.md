@@ -72,7 +72,8 @@ This is identical as traditional CMOS however with a further pmos on the top who
 Inout -output voltage waveform
 CMOS Inverter
 
-![cmos_inveter_simulation_1](https://user-images.githubusercontent.com/99197393/153373648-0d48c4ff-3727-441b-b78e-ad7eb9914482.JPG)
+![image](https://user-images.githubusercontent.com/99197393/153374167-f4c270b0-4579-4c95-bdec-ef80515ffdc1.png)
+
 
 
 
