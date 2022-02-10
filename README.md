@@ -22,6 +22,10 @@ The purpose of this project is to design a Low power CMOS inverter using an open
   
   8[References](#References)
   
+  9[Acknowledgement](#Acknowledgement)
+  
+  10[Author](#Author)
+  
   
  
  
@@ -84,6 +88,39 @@ Reduce- Swing -CMOS Inverter
 Modified Spice Netlist of Reduce -Swing Approach with Sky130 models
 
 ![image](https://user-images.githubusercontent.com/99197393/153339942-f256571f-0a6e-4355-8758-1808f262253c.png)
+
+### Power Comperison of CMOS inverter and Reduce Swing inverter realization techniques
+
+Simulation Power(µw) Waveform of CMOS inverter
+![power_cmos_inv](https://user-images.githubusercontent.com/99197393/153353371-7186546b-ee67-4754-94b7-16fe0e6c3a41.JPG)
+
+Simulation Power(µw) Waveform of Reduce Swing CMOS Approach
+
+![power_reduce_swing](https://user-images.githubusercontent.com/99197393/153353509-638ac301-f106-4547-ada2-51c1c80590b6.JPG)
+
+
+# Comparisom table
+
+# Conclusion
+
+# Acknowledgement
+@Kunal Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
+
+# Author
+@Akanksha Arya, VLSI student Banasthali Vidyapith University
+ Contact: akankshaarya11@gmail.com
+
+
+# References
+[1] ’’CMOS digital integrated circuit’’sung-Mo kang
+[2] [2]	Seyed Ebrahim Esmaeili, Asim J. Al-Khalili, Glenn E.
+R. Cowan: Low-Swing Differential Conditional Capturing Flip-Flop for LC Resonant Clock Distribution Networks. IEEE Tran
+[3] C. Kim and S. M. Kang, “A low-swing clock double-edge triggered flipflop,” in Proc. Symp. VLSI Circuits, 2001, pp. 183–186.
+
+
+
+
+
 
 
 
