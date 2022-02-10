@@ -22,7 +22,8 @@ The purpose of this project is to design a Low power CMOS inverter using an open
   8[Acknowledgement](#Acknowledgement)
   
   9[Author](#Author)
-  [Reference](#Reference)
+  
+  10[Reference](#Reference)
   
   
  
@@ -43,7 +44,7 @@ package density becomes the one the major demand in VLSI technology, the size of
 # PROPOSED APPROACH
 Reducing power consumption in integrated circuits is of utmost importance for both portable and desktop applications. The power consumed by the clock network, clock trees, buffers, latches and flip-flops, presents a percentage that ranges from 20 to 50% of the total power. Reduced swing inverters  are used at the nodefed by the low-swing sinusoidal clock signal. This is done to reduce the effect of short circuit power Demonstrated that a low-swing square-wave clock double-edge triggered flip-flop allowed a 78% power savings in the clock distribution network (CDN). 
 
-# Reference Circuit Diagram
+# Circuit Diagram
    ### CMOS Inverter
 A CMOS inverter is consist of a pmos and an nmos devices. Its operation can be understood with a easy transfer version of the MOS transistor, the transistor is nothing greater than a transfer with an countless off resistance When input is logic 0, logic 1 is obtained at the output and when input is logic 1, logic 0 is observed at the output. Fig.1 shows the conventional CMOS approach.
 The CMOS inverter has two important advantages over the other inverter configuration
